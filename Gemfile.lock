@@ -1,0 +1,30 @@
+PATH
+  remote: .
+  specs:
+    bowshock (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.6.0)
+      public_suffix (>= 2.0.2, < 4.0)
+    dotenv (2.7.0)
+    down (4.8.0)
+      addressable (~> 2.5)
+    minitest (5.11.3)
+    public_suffix (3.0.3)
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bowshock!
+  bundler (~> 2.0)
+  dotenv
+  down
+  minitest (~> 5.0)
+  rake (~> 10.0)
+
+BUNDLED WITH
+   2.0.1
