@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52dcddbc-69b6-47a1-b1ae-68ffe7aec52d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bowshock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/bowshock/helioviewer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock/helioviewer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/bowshock/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock/version.rb" afterDir="false" />
     </list>
@@ -16,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/bowshock@bowshock.rcov" NAME="bowshock Coverage Results" MODIFIED="1551024573121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="bowshock" />
+    <SUITE FILE_PATH="coverage/bowshock@bowshock.rcov" NAME="bowshock Coverage Results" MODIFIED="1551025135036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="bowshock" />
     <SUITE FILE_PATH="coverage/bowshock@Run_test__bowshock_test___bowshock.rcov" NAME="Run test 'bowshock_test': bowshock Coverage Results" MODIFIED="1550424685216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="bowshock" />
   </component>
   <component name="FileEditorManager">
@@ -69,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/bowshock/helioviewer.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="179" column="36" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
+            <state relative-caret-position="277">
+              <caret line="175" column="29" lean-forward="true" selection-start-line="175" selection-start-column="29" selection-end-line="175" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -157,8 +154,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="y" value="41" />
+    <option name="x" value="694" />
+    <option name="y" value="40" />
     <option name="width" value="1187" />
     <option name="height" value="1000" />
   </component>
@@ -287,7 +284,7 @@
       <updated>1549308599914</updated>
       <workItem from="1549308602082" duration="45819000" />
       <workItem from="1550431669172" duration="10817000" />
-      <workItem from="1551024206896" duration="393000" />
+      <workItem from="1551024206896" duration="964000" />
     </task>
     <servers />
   </component>
@@ -315,24 +312,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57029000" />
+    <option name="totallyTimeSpent" value="57600000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="41" width="1187" height="1000" extended-state="0" />
+    <frame x="694" y="40" width="1187" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2585153" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49868995" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49868995" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5021834" side_tool="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32929516" />
       <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.4995633" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4978166" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4978166" weight="0.32929516" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -488,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/bowshock/helioviewer.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="179" column="36" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
+        <state relative-caret-position="277">
+          <caret line="175" column="29" lean-forward="true" selection-start-line="175" selection-start-column="29" selection-end-line="175" selection-end-column="29" />
         </state>
       </provider>
     </entry>

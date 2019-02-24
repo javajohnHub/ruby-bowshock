@@ -176,7 +176,9 @@ module Bowshock
     directory_name = "movies"
     Dir.mkdir(directory_name) unless File.exists?(directory_name)
     if File.exists?(directory_name)
-      Down.download(base_url, destination: directory_name)
+      Down.download(base_url, destination: directory_name, progress_proc: -> (progress) do
+      puts "downloading... #{object["id"]}.#{object["format"]}"
+      end)
       Dir.glob("#{directory_name}/*").each do |filename|
         FileUtils.mv( filename, filename.ext("mp4"))
       end
