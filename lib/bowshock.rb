@@ -98,5 +98,5 @@ instance = Bowshock::Helioviewer.queueMovie({"startTime" => "2010-03-01T12:12:12
 =end
 #instance = Bowshock::Helioviewer.reQueueMovie("VXvX5")
 #instance = Bowshock::Helioviewer.getMovieStatus({"id" => "F3Dh5", "format" => "mp4", "verbose" => true, #"callback" => "callback", #"token" => "4673d6db4e2a3365ab361267f2a9a112"})
-#instance = Bowshock::Helioviewer.downloadMovie({"id" => "VXvX5", "format" => "mp4", "hq" => true})
+instance = Bowshock::Helioviewer.downloadMovie({"id" => "VXvX5", "format" => "mp4", "hq" => true})
 #puts instance

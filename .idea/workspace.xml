@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52dcddbc-69b6-47a1-b1ae-68ffe7aec52d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/bowshock/apod.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock/apod.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bowshock.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bowshock/helioviewer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock/helioviewer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/bowshock/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bowshock/version.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/bowshock@bowshock.rcov" NAME="bowshock Coverage Results" MODIFIED="1551021158018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="bowshock" />
+    <SUITE FILE_PATH="coverage/bowshock@bowshock.rcov" NAME="bowshock Coverage Results" MODIFIED="1551024573121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="bowshock" />
     <SUITE FILE_PATH="coverage/bowshock@Run_test__bowshock_test___bowshock.rcov" NAME="Run test 'bowshock_test': bowshock Coverage Results" MODIFIED="1550424685216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="bowshock" />
   </component>
   <component name="FileEditorManager">
@@ -20,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/bowshock.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+            <state relative-caret-position="472">
+              <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -65,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/bowshock/helioviewer.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="170" column="27" lean-forward="true" selection-start-line="170" selection-start-column="27" selection-end-line="170" selection-end-column="27" />
+            <state relative-caret-position="404">
+              <caret line="179" column="36" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -139,8 +143,8 @@
         <option value="$PROJECT_DIR$/lib/bowshock/eonet.rb" />
         <option value="$PROJECT_DIR$/lib/bowshock/helpers.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/lib/bowshock.rb" />
         <option value="$PROJECT_DIR$/bowshock.gemspec" />
+        <option value="$PROJECT_DIR$/lib/bowshock.rb" />
         <option value="$PROJECT_DIR$/lib/bowshock/helioviewer.rb" />
         <option value="$PROJECT_DIR$/lib/bowshock/version.rb" />
       </list>
@@ -153,8 +157,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="663" />
-    <option name="y" value="85" />
+    <option name="x" value="695" />
+    <option name="y" value="41" />
     <option name="width" value="1187" />
     <option name="height" value="1000" />
   </component>
@@ -166,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,7 +286,8 @@
       <option name="presentableId" value="Default" />
       <updated>1549308599914</updated>
       <workItem from="1549308602082" duration="45819000" />
-      <workItem from="1550431669172" duration="10397000" />
+      <workItem from="1550431669172" duration="10817000" />
+      <workItem from="1551024206896" duration="393000" />
     </task>
     <servers />
   </component>
@@ -310,24 +315,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56216000" />
+    <option name="totallyTimeSpent" value="57029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="663" y="85" width="1187" height="1000" extended-state="0" />
+    <frame x="695" y="41" width="1187" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25414848" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2585153" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49868995" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49868995" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5021834" side_tool="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32929516" />
       <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.4995633" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4978166" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4978166" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -419,6 +424,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bowshock/down-net_http20190223-73112-12pwxwf.mp4" />
+    <entry file="file://$PROJECT_DIR$/lib/yourfile.mp4" />
+    <entry file="file://$PROJECT_DIR$/lib/file.mp4" />
+    <entry file="file://$PROJECT_DIR$/lib/bowshock/down-net_http20190224-85481-yk82t1.mp4" />
+    <entry file="file://$PROJECT_DIR$/lib/movies/down-net_http20190224-86164-oqq4m2" />
+    <entry file="file://$PROJECT_DIR$/lib/bowshock.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bowshock.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bowshock/apod.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/bowshock/helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -433,76 +486,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bowshock/down-net_http20190223-73112-12pwxwf.mp4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/yourfile.mp4">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/file.mp4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bowshock/down-net_http20190224-85481-yk82t1.mp4">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/movies/down-net_http20190224-86164-oqq4m2">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bowshock.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bowshock.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/bowshock/helioviewer.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="170" column="27" lean-forward="true" selection-start-line="170" selection-start-column="27" selection-end-line="170" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bowshock/apod.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        <state relative-caret-position="404">
+          <caret line="179" column="36" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="36" />
         </state>
       </provider>
     </entry>

@@ -173,9 +173,13 @@ module Bowshock
     if object["hq"]
         base_url += "hq=#{object["hq"]}"
     end
-    Down.download(base_url, destination: "movies")
-    Dir.glob('movies/*').each do |filename|
-      FileUtils.mv( filename, filename.ext("mp4"))
+    directory_name = "movies"
+    Dir.mkdir(directory_name) unless File.exists?(directory_name)
+    if File.exists?(directory_name)
+      Down.download(base_url, destination: directory_name)
+      Dir.glob("#{directory_name}/*").each do |filename|
+        FileUtils.mv( filename, filename.ext("mp4"))
+      end
     end
   end
     module_function :downloadMovie
